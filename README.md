@@ -10,3 +10,10 @@ Welcome! This repository is my **Front-End Web Development practice hub**, where
 - Learn **DOM Manipulation** to create interactive web pages
 - Practice **responsive layouts** using HTML & CSS
 - Develop **mini-projects** to consolidate learning
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-o-a89992201)  
+- Email: [okashakhan461@gmail.com](mailto:okashakhan461@gmail.com)
