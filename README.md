@@ -1,2 +1,12 @@
 # Web-Dev-Journey
-Front-End Web Development Practice and Learning
+
+Welcome! This repository is my **Front-End Web Development practice hub**, where I document my learning journey while mastering **HTML, CSS, JavaScript, and DOM manipulation**.
+
+---
+
+## 🎯 Learning Objectives
+
+- Build a strong foundation in **core JavaScript concepts** (loops, functions, arrays, objects)
+- Learn **DOM Manipulation** to create interactive web pages
+- Practice **responsive layouts** using HTML & CSS
+- Develop **mini-projects** to consolidate learning
