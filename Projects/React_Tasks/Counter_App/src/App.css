@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html{
+  background-color: rgb(69, 52, 85);
+}
+
+.current_val{
+  font-size: 5em;
+  font-weight: bold;
+
+}
+
+.counter_container{
+  text-align: center;
+  color: aliceblue;
+}
+
+button{
+  font-size: 40px;
+  margin: 10px;
+  padding: 5px;
+  border: none;
+  background-color: rgb(13, 106, 182);
+  border-radius: 7px;
+}
+
+button:hover{
+  background-color: rgb(41, 41, 241);
+  color: rgb(199, 216, 234);
+  cursor: pointer;
+}
