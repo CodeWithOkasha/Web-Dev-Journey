@@ -1,0 +1,28 @@
+.app_prev_div{
+    margin-top: 250px;
+    position: relative;
+    
+}
+
+.ovel_bg{
+    width: 950px;
+    height: 666px;
+    margin-left: 200px;
+    transform: rotate(-8deg)
+}
+
+.first_mobb{
+   position: absolute;
+   left:155px;
+   top:92px;
+}
+.second_mobb{
+   position: absolute;
+   left:410px;
+   top:-58px
+}
+.third_mobb{
+    top:85px;
+    left:847px;
+   position: absolute;
+}

@@ -1,0 +1,50 @@
+.download_div {
+  position: relative;
+  margin-top: 400px;
+}
+
+.download_div img {
+  width: 100%;
+  /* max-width: 1443px; */
+  height: 369px;
+  display: block;
+}
+
+.location_weather_wrapper {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  top: -150px;
+  left: 450px;
+}
+.location_weather_wrapper img {
+  width: 256px;
+  height: 256px;
+}
+
+.download_txt {
+  position: absolute;
+  top: 165px;
+  left: 500px;
+  width: 436px;
+  height: 28px;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: white;
+  font-family: "Newsreader", serif;
+}
+
+.apps_logos {
+  top: 240px;
+  left: 535px;
+  position: absolute;
+  display: flex;
+  gap: 25px;
+}
+.apps_logos img {
+  width: 171px;
+  height: 54px;
+}
